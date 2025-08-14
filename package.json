@@ -1,6 +1,5 @@
 {
   "name": "hono-react-pipeable-stream-example",
-  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
